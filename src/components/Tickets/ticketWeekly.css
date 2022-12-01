@@ -1,0 +1,16 @@
+.body-weekly-ticket{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.container-weekly-ticket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weekly-title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
